@@ -3,12 +3,12 @@ Developed by Abhisht.
 ##GUI VERSION OF DOWNLOADER##
 
 IMPORTANT:-
->>> Dont Delete Resources Folder or Cache Folder else you will loose the Graphics of GUI <<<
->>> Extrat the Rar file on the Same Directory where the Application Exist.
+>>> Dont Delete Resources Folder or Cache Folder else you will lost the Graphics of GUI <<<
+>>> Extract the Rar file on the Same Directory where the Application exists.
 INSTRUCTIONS:-	
 1) Paste the Youtube URL.
 2) First press the ">" button right after the Link box to check & load the URL Metadata.
-3) Select the required Quality of the Video.[Capable to Download 1080p FULL HD Video. 4K is still underdevelop.]
+3) Select the required Quality of the Video.[Capable to Download 1080p FULL HD Video. 4K is still underdevelopment.]
 4) Browse the Output Folder where you want to save the File.
 5) Now you are Ready to Press DOWNLOAD Button.
 6) After Clicking Download, Application may become unresponsive but the Black Console will appear, that will start compile your Video File.
