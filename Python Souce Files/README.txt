@@ -2,13 +2,13 @@ Developed by Abhisht.
 
 Hello Developers....
 
-**Dont Delete Resources and Cache Folder (or) you will find yourself in tourble**
+**Dont Delete Resources and Cache Folder (or) you will find yourself in trouble**
 
-These are the Required Dependencies to run Source File:
+These are the required Dependencies to run the Source File:
 
 >>PyQt5 required for GUI or just take Reference from "backend.py">>
 
-Some other Important Libaries:-
+Some other Important Libraries:-
 1)pytube3
 2)requests
 3)ffmpeg-python [also add its "ffmpeg.exe" path (which is located in bin folder) to System Enviroment Variables]
